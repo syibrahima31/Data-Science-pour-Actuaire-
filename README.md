@@ -1,6 +1,4 @@
-# Data-Science-pour-Actuaire-
-
-Le mot Data Science (science des données)
+Le Mot Data Science 
 ------------------------------------------
 En termes généraux, la science des données est l’extraction de connaissance d’ensembles de données.
 
@@ -10,7 +8,7 @@ Elle utilise des techniques et des théories tirées de nombreux domaines dans l
 
 Parmi elles : les modèles probabilistes, l’apprentissage automatique, l’apprentissage statistique, la programmation informatique, l’ingénierie de données, la reconnaissance de formes, la visualisation de données, l’analytique prophétique, la modélisation d’incertitude, le stockage de données, la géovisualisation, la compression de données et le calcul à haute performance. Les méthodes qui s’adaptent aux données de masse sont particulièrement intéressantes dans la science des données, bien que la discipline ne soit généralement pas considérée comme limitée à ces données.
 
-
+![https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/DataScienceDisciplines.png/260px-DataScienceDisciplines.png]
 
 
 > á consulter régulierement 
