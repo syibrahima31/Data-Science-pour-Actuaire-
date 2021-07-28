@@ -8,7 +8,7 @@ Elle utilise des techniques et des théories tirées de nombreux domaines dans l
 
 Parmi elles : les modèles probabilistes, l’apprentissage automatique, l’apprentissage statistique, la programmation informatique, l’ingénierie de données, la reconnaissance de formes, la visualisation de données, l’analytique prophétique, la modélisation d’incertitude, le stockage de données, la géovisualisation, la compression de données et le calcul à haute performance. Les méthodes qui s’adaptent aux données de masse sont particulièrement intéressantes dans la science des données, bien que la discipline ne soit généralement pas considérée comme limitée à ces données.
 
-![](https://maths-sciences.univ-amu.fr/sites/maths-sciences.univ-amu.fr/files/venn00_data_science_web.png)
+![] (https://maths-sciences.univ-amu.fr/sites/maths-sciences.univ-amu.fr/files/venn00_data_science_web.png)
 
 
 > á consulter régulierement 
