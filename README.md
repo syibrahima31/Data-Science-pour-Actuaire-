@@ -18,20 +18,13 @@ Parmi elles : les modèles probabilistes, l’apprentissage automatique, l’app
 
 
 
-#### Niveau : Master 2  Actuariat 
+### Niveau : Master 2  Actuariat 
 
-#### Structure : Institut Supérieur de Finance 
-
-
+### Structure : Institut Supérieur de Finance 
 
 
-
-
-
-
-
-##### Programme 
-##### Ititulé du cours : Data Science pour Actuariat 
+### Programme 
+### Ititulé du cours : Data Science pour Actuariat 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
 
 - Chapitre 1 : Les Concepts Fondamentaux 
